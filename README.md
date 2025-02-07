@@ -1,2 +1,2 @@
-# QA_articles
+# QA Articles
 
